@@ -64,7 +64,7 @@ Principal
 main{
     display: flex;
     flex-direction: row;
-    background: url(../assets/fondo.png) no-repeat;
+    background: url(../ENCRIPTADOR-DE-TEXTO./assets/fondo.png) no-repeat;
     background-size: cover;
     flex-wrap: wrap;
 }

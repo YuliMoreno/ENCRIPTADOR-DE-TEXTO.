@@ -10,7 +10,8 @@
 
 ## Descripción
 
-Este proyecto es una aplicación web de encriptación y desencriptación de texto. Está diseñada para que los usuarios puedan ingresar un texto, encriptarlo utilizando un conjunto específico de reglas de sustitución de caracteres, y posteriormente desencriptarlo para recuperar el texto original.
+Este proyecto es una aplicación web de encriptación y desencriptación de texto. Está diseñada para que los usuarios puedan ingresar un texto, 
+encriptarlo utilizando un conjunto específico de reglas de sustitución de caracteres, y posteriormente desencriptarlo para recuperar el texto original.
 
 ## Estado del Proyecto
 
@@ -18,7 +19,8 @@ Proyecto completado.
 
 ## Características
 
-- **Interfaz de Usuario Intuitiva**: Una interfaz simple donde los usuarios pueden ingresar texto, encriptarlo o desencriptarlo, y copiar el resultado.
+- **Interfaz de Usuario Intuitiva**: Una interfaz simple donde los usuarios pueden ingresar texto, encriptarlo o desencriptarlo,
+    y copiar el resultado.
 - **Validaciones**: Asegura que el texto ingresado esté en minúsculas y no contenga acentos ni caracteres especiales.
 - **Responsivo**: El diseño se adapta a diferentes tamaños de pantalla, incluyendo dispositivos móviles.
 - **Mensajes Informativos**: Avisos que guían al usuario sobre cómo utilizar la aplicación correctamente.

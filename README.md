@@ -66,6 +66,8 @@ Proyecto completado.
 ## Autor
 
 Este proyecto fue desarrollado por Yuli Moreno
-![Github](https://github.com/YuliMoreno)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/YuliMoreno)
+
 
 

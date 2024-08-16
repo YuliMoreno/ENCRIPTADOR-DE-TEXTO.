@@ -14,7 +14,7 @@ Este proyecto es una aplicación web de encriptación y desencriptación de text
 
 ## Estado del Proyecto
 
-Proyecto terminado.
+Proyecto completado.
 
 ## Características
 
